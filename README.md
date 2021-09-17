@@ -1,6 +1,6 @@
 ## 👨 Introduction
 
-Hi, I'm [Kieron](https://github.com/KieronHolmes). I am a developer for a Local Authority, focusing on web application development and process automation. I am currently studying towards an MSc in Computer Science with the University of Essex Online.
+Hi, I'm [Kieron](https://github.com/KieronHolmes). I am a developer for a Local Authority based in the South-East of England, focusing on web application development and process automation. I am currently studying towards an MSc in Computer Science with the University of Essex Online.
 
 This GitHub page will contain academic works as I progress through the course and open-source developments and contributions.
 
