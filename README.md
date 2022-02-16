@@ -34,12 +34,6 @@ I am currently studying towards an MSc in Computer Science with the [University 
 <a href="https://github.com/KieronHolmes/KieronHolmes">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KieronHolmes&show_icons=true&line_height=27&count_private=true&theme=dracula" alt="Kieron's Github Stats" />
 </a>
-<a href="https://github.com/KieronHolmes/UoEo-SSDCS-UKPostcodeChecker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KieronHolmes&repo=UoEo-SSDCS-UKPostcodeChecker&theme=dracula" alt="Repository for UoEo Postcode Checker Task" />
-</a>
-<a href="https://github.com/KieronHolmes/UoEo-SSDCS-TowersOfHanoi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KieronHolmes&repo=UoEo-SSDCS-TowersOfHanoi&theme=dracula" alt="Repository for UoEo Towers of Hanoi Task" />
-</a>    
 
 ## ✋ Readme Attributions
 * [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
