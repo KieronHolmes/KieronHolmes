@@ -1,8 +1,8 @@
 ## 👨 Introduction
 
-Hi, I'm [Kieron](https://github.com/KieronHolmes). I am a developer for a Local Authority based in the South-East of England, focusing on web application development and process automation. I am currently studying towards an MSc in Computer Science with the University of Essex Online.
+Hi, I'm [Kieron](https://github.com/KieronHolmes). I am a developer for a Local Authority based in the South-East of England, focusing on web application development and process automation. I am currently studying towards an PhD in Computer Science with the University of Portsmouth.
 
-This GitHub page will contain academic works as I progress through the course and open-source developments and contributions.
+This GitHub page contains a series of repositories used in my MSc (at the University of Essex Online) and research outputs from my current studies at the University of Portsmouth. 
 
 ## 🔧 Technologies/Tools
 <!-- Operating Systems -->
@@ -23,9 +23,6 @@ This GitHub page will contain academic works as I progress through the course an
 <!-- Miscellaneous -->
 ![](https://img.shields.io/badge/Version%20Control-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Version%20Control-Azure%20DevOps-informational?style=flat&logo=azuredevops&logoColor=white&color=2bbc8a)
-
-## &#x270d; Academia
-I am currently studying towards an MSc in Computer Science with the [University of Essex Online](https://online.essex.ac.uk). Throughout the course so far, we have designed and produced an Object-Oriented system design and developed secure applications in line with the [OWASP Top 10](https://owasp.org/www-project-top-ten/).
 
 ## &#x1f4c8; Github Stats
 <a href="https://github.com/KieronHolmes/KieronHolmes">
